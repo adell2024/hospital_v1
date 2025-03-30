@@ -8,6 +8,7 @@ SET time_zone = "+00:00";
 --
 -- Table structure for table `admins`
 --
+use hospital_db;
 CREATE TABLE `admins` (
   `id` int(11) NOT NULL,
   `name` varchar(255) NOT NULL,
