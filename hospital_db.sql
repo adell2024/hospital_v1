@@ -35,7 +35,7 @@ CREATE TABLE `doctors` (
 -- Dumping data for table `doctors`
 --
 INSERT INTO `doctors` (`id`, `name`, `email`, `password`, `phone`, `gender`, `specialist`, `created`) VALUES
-(1, 'Ahmad Abdallah', 'aabda067@gmail.com', 'Vm0xMFlWbFdWWGhVYmxKWFltdHdVRlpzV21GWFJscHlWV3RLVUZWVU1Eaz0=', '03218878961', 0, 'COVID-19', '2018-05-01 13:07:24');
+(1, 'A. ADELL ;), 'chugmail.com', 'Vm0xMFlWbFdWWGhVYmxKWFltdHdVRlpzV21GWFJscHlWV3RLVUZWVU1Eaz0=', '03218878961', 0, 'COVID-19', '2018-05-01 13:07:24');
 -- --------------------------------------------------------
 --
 -- Table structure for table `nurses`

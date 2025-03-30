@@ -54,7 +54,7 @@
               <li class="user-header">
                 <img src="../dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
                 <p>
-                  Ahmad A - Professor
+                  A - Professor ;)
                   <small>Member since May. 2018</small>
                 </p>
               </li>
