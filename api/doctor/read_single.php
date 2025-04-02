@@ -32,5 +32,5 @@ if($stmt->rowCount() > 0){
     );
 }
 // make it json format
-print_r(json_encode($doctor_arr));
+var_dump(json_encode($doctor_arr));
 ?>

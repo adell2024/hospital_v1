@@ -4,8 +4,8 @@ class Database{
     // specify your own database credentials
     private $host = "localhost";
     private $db_name = "hospital_db";
-    private $username = "root";
-    private $password = "azerty";
+    private $username = "admin";
+    private $password = "admin";
     public $conn;
  
     // get the database connection

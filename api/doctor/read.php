@@ -35,7 +35,7 @@ if($num>0){
         array_push($doctors_arr["doctors"], $doctor_item);
     }
  
-    echo json_encode($doctors_arr["doctors"]);
+    echo json_encode(array());
 }
 else{
     echo json_encode(array());
